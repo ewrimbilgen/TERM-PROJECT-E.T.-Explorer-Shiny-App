@@ -1,4 +1,4 @@
-# TERM-PROJECT-E.T.-Explorer-Shiny-App
+# TERM-PROJECT-E.T.-Explorer-Shiny-App by Gamze Kopal & Evrim Bilgen
 This project aims to visualize and interpret ET data sourced on the National UFO Reporting Center
 
 
